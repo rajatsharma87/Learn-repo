@@ -1,7 +1,7 @@
 # Learn-repo
 Basics of Repository
 
-This project was created as back end of the shoping cart to provide a understanding of :
+##This project was created as back end of the shoping cart to provide a understanding of :
 - how to use classes and call them in different classes which resides in differnt folder struture
 - Below packages needs to be installed:
   - Python 3.9
