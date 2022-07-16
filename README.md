@@ -1,0 +1,14 @@
+# Learn-repo
+Basics of Repository
+
+This project was created as back end of the shoping cart to provide a understanding of :
+- how to use classes and call them in different classes which resides in differnt folder struture
+- Below packages needs to be installed:
+  - Python 3.9
+  - Pandas , CSV,OS  and sys packages are required
+- Seperate folders for the:
+  - login section 
+  - Product section
+  - Order creation section
+  - Main.py needs to be executed to start the application
+ 
